@@ -32,8 +32,6 @@ I have a strong background in software development and testing, with a focus on 
 #### 🧠 AI & Data Technologies  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=tensorflow&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)  
 
-#### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
 
