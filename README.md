@@ -42,10 +42,5 @@ I have a strong background in software development Engineering and testing, with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanmandal/)
 
 
-### 🏆 GitHub Contributions
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanmandal-1&show_icons=true&theme=default&count_private=true)
-
-
-
 
 
