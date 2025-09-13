@@ -35,12 +35,5 @@ I have a strong background in Software Development Engineering and Automation Fr
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=tensorflow&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)  
 
 
----
-
-⭐ **Let's connect and build something amazing together!** 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanmandal/)
-
-
 
 
