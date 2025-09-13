@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Milan Mandal!
 
 I'm a **Software Engineer with 6 years of experience** in an **SDET profile**, and **currently pursuing my MS in Computer Science and AI**.  
-I have a strong background in software development and testing, with a focus on building efficient, high-quality software solutions.
+I have a strong background in software development Engineering and testing, with a focus on building efficient, high-quality software solutions.
 
 ---
 
@@ -41,7 +41,6 @@ I have a strong background in software development and testing, with a focus on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanmandal/)
 
-## 📊 GitHub Stats
 
 ### 🏆 GitHub Contributions
 ![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanmandal-1&show_icons=true&theme=default&count_private=true)
