@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milan Mandal!
 
-I'm a **Software Engineer with 6 years of experience** in an **SDET profile**, and **currently pursuing my MS in Computer Science and AI**.  
+I'm a **Software Engineer with ~6 years of experience** in an **SDET profile**, and **currently pursuing my MS in Computer Science and AI**.  
 I have a strong background in Software Development Engineering and Automation Framework development, with a focus on building efficient, high-quality software solutions.
 
 ---
