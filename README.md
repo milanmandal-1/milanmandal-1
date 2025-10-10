@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Milan Mandal!
 
-I'm a **Senior Software Engineer with ~6 years of experience** in an **Senior Software Engineer profile**, and **currently pursuing my Madters in Computer Science and AI**.  
+I'm a **Senior Software Engineer with ~6 years of experience** in an **Senior Software Engineer profile**, and **currently pursuing my Masters in Computer Science and AI**.  
 I have a strong background in Software Development Engineering and Automation Framework development, with a focus on building efficient, high-quality software solutions.
 
 ---
