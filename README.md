@@ -59,7 +59,7 @@ I specialize in building **scalable, reliable, and high-quality software solutio
 ## 📈 GitHub Insights (Optional Add-On)
 _Add these if you want visual stats:_
 
-```md
+md
 ![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
