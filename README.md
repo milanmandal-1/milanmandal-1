@@ -1,4 +1,4 @@
-**Senior Engineer | Software Engineering | Backend Development | REST APIs & Microservices | AI Enthusiast** 👨‍💻
+**Senior Software Engineering | Backend Development | REST APIs & Microservices | AI Enthusiast** 👨‍💻
 
 ---
 
