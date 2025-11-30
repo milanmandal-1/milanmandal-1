@@ -1,6 +1,6 @@
 # Hi 👋, I'm Milan Mandal
 
-**Senior Engineer | Java Automation | Backend Development | REST APIs & Microservices | AI Enthusiast** 👨‍💻
+**Senior Engineer | Software Engineering | Backend Development | REST APIs & Microservices | AI Enthusiast** 👨‍💻
 
 ---
 
@@ -8,7 +8,7 @@
 
 I am a Senior Engineer with **6+ years of experience** in designing and developing robust systems:
 
-### 🔹 Automation Engineering
+### 🔹 Software Engineering
 - Java-based automation frameworks for **UI, Mobile, and API testing**  
 - Test methodologies: **TDD / BDD** using TestNG, JUnit, Cucumber & Gherkin  
 - Frameworks: **Page Object Model, Hybrid & Modular frameworks**  
