@@ -1,5 +1,3 @@
-# Hi 👋, I'm Milan Mandal
-
 **Senior Engineer | Software Engineering | Backend Development | REST APIs & Microservices | AI Enthusiast** 👨‍💻
 
 ---
