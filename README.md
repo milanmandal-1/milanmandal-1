@@ -1,63 +1,91 @@
-# 👋 Hi, I'm Milan Mandal!
-
-I'm a **Senior Software Engineer with ~6 years of experience**, currently pursuing my **Master's in Computer Science & Artificial Intelligence**.  
-I specialize in building **scalable, reliable, and high-quality software solutions**, with strong expertise across development, automation, and AI.
+<h1 align="center">Hi 👋, I'm Milan Mandal</h1>
+<h3 align="center">Senior Engineer | Java Automation | Backend Development | REST APIs & Microservices</h3>
 
 ---
 
-## 🚀 What I Do
-- Build, test, and deploy **end-to-end software solutions**.  
-- Solve **real-world problems** using clean code, automation, and intelligent systems.  
-- Actively learning and exploring **Machine Learning** & **Deep Learning** technologies.
+## 👨‍💻 About Me
+
+I am a **Senior Engineer with 6+ years of experience** in designing and developing:
+
+### 🔹 Automation Engineering  
+- Java-based automation frameworks (UI, Mobile, API)  
+- TDD / BDD using TestNG, JUnit, Cucumber & Gherkin  
+- Page Object Models, Hybrid & Modular frameworks  
+- API automation using RestAssured & Postman  
+- CI/CD automation with Jenkins, Maven & Docker  
+
+### 🔹 Backend Engineering  
+- Scalable backend systems using **Java & Spring Boot**  
+- Designing & developing **REST APIs**  
+- Microservices architecture & best practices  
+- Clean architecture, modular design, system reliability  
+
+I enjoy building systems that are **clean, scalable, and efficient**, whether it's automation frameworks or backend services.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🧩 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### **Languages**
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
----
+### **Automation Tools**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![Appium](https://img.shields.io/badge/Appium-9146FF?style=for-the-badge)
+![RestAssured](https://img.shields.io/badge/REST_Assured-00A4EF?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 
-### ⚡ Frameworks & Libraries  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
----
-
-### 🛠️ Tools & Technologies  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-4253CC?style=flat&logo=appium&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat&logo=testng&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=flat&logo=cucumber&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-4EAA25?style=flat)
-![BDD](https://img.shields.io/badge/BDD-005571?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azuredevops&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![OpenForge](https://img.shields.io/badge/OpenForge-FF6600?style=flat)
+### **Backend & DevOps**
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
 
 ---
 
-### 🧠 AI & Data Technologies  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)
+## 🔥 Current Focus Areas  
+- Backend development (Java + Spring Boot)  
+- REST API design patterns  
+- Microservices design & architecture  
+- Distributed systems fundamentals  
+- Performance & reliability engineering  
 
 ---
 
-## 📈 GitHub Insights (Optional Add-On)
-_Add these if you want visual stats:_
+## 📚 Featured Projects  
+*(Add links once you push them to GitHub)*
 
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanmandal-1&show_icons=true&theme=tokyonight)
+### 🚀 Java Hybrid Automation Framework  
+UI + API + Mobile automation framework with modular architecture.
+
+### ⚡ API Automation Suite  
+REST API automation with schema validation, reporting & CI/CD integration.
+
+### 🏗️ Backend Service (Spring Boot)  
+A scalable Java microservice implementing clean architecture + REST endpoints.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milanmandal-1&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmandal-1&layout=compact&theme=tokyonight" height="160">
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<a href="https://www.linkedin.com/in/milanmandal01/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+Feel free to explore my work or reach out for collaborations.
 
