@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Senior Engineer with **6+ years of experience** in designing and developing robust systems:
+I am a Lead Engineer with **6+ years of experience** in designing and developing robust systems:
 
 ### 🔹 Software Engineering
 - Java-based automation frameworks for **UI, Mobile, and API testing**  
